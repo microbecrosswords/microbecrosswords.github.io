@@ -8,5 +8,3 @@ I am scared.
 Wait so how do I use commit? I open both brackets and github on my laptop? And then what??? Ohhh I just edit the readme file and commit to main on the github desktop app???????? Seems easy enough right? WRONG
 
 Actually it ain't that bad now that I have actually done it.
-=======
->>>>>>> 9413d6a9695f8c926e76a3df77640b11796eed5b
