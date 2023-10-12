@@ -8,3 +8,8 @@ I am scared.
 Wait so how do I use commit? I open both brackets and github on my laptop? And then what??? Ohhh I just edit the readme file and commit to main on the github desktop app???????? Seems easy enough right? WRONG
 
 Actually it ain't that bad now that I have actually done it.
+
+So it didn't work that well first but then it did.
+
+So how do I integrate the template website onto my github page?????????
+Maybe I should use figure it out. 
